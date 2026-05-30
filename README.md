@@ -41,3 +41,7 @@ You can easily tweak the look and feel by changing the constants at the top of t
 ```cpp
 const int eyeRadius = 3;       // 0 = Sharp boxes, 6 = Round ovals
 const float smoothness = 0.1;  // Higher = faster looking, Lower = slower/smoother
+```
+
+## Preview
+![Preview image](Img/Preview1.jpg)
